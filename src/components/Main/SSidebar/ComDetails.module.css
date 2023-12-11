@@ -1,0 +1,12 @@
+.scroll__wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 50px;
+}
+
+li {
+    list-style: none;
+    font-size: 20px;
+    line-height: 40px;
+}

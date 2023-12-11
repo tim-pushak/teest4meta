@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import companiesData from "../../db.json";
+import companiesData from "../../../db.json";
 import styles from "./ComList.module.css";
 
 export function ComList() {
