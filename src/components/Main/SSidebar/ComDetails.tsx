@@ -19,8 +19,10 @@ export function ComDetails() {
       <ComList />
       <div>
         <h2>{company.title}</h2>
-        <p>Email: {company.email}</p>
-        <p>Description: {company.description}</p>
+        <p>
+          <a href="mailto:devprogartt@gmail.com?">{company.email}</a>
+        </p>
+        <p>{company.description}</p>
       </div>
     </div>
   );
