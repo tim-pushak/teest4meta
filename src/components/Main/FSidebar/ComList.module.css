@@ -1,0 +1,12 @@
+.scroll {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    height: 500px;
+    width: 300px;
+}
+
+.comlist li {
+    list-style: none;
+    font-size: 25px;
+    line-height: 45px;
+}

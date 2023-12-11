@@ -1,6 +1,0 @@
-.scroll {
-    overflow: auto;
-    -webkit-overflow-scrolling: touch; /* enables momentum-scrolling on iOS */
-    height: 500px;
-    width: 300px;
-}

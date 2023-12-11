@@ -1,19 +1,13 @@
 import React from "react";
-import "./App.css";
-
-import { ComList } from "./components/FSidebar";
 import { Header } from "./components/Header";
-import { ComDetails } from "./components/SSidebar";
+import { Main } from "./components/Main/Main";
 
 function App() {
   return (
-      <div className="App">
-        <Header />
-        <div className="scroll__wrapper">
-          <ComList />
-          <ComDetails />
-        </div>
-      </div>
+    <div className="App">
+      <Header />
+      <Main />
+    </div>
   );
 }
 

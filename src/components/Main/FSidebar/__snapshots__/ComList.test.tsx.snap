@@ -1,0 +1,587 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ComList Component matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="scroll"
+    >
+      <ul>
+        <li>
+          <a
+            href="/company/1"
+          >
+            Apple
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/2"
+          >
+            Green Energy Solutions
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/3"
+          >
+            Fashion Trends Ltd.
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/4"
+          >
+            HealthCare Innovators
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/5"
+          >
+            Foodie Delights Corp.
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/6"
+          >
+            Global Robotics
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/7"
+          >
+            SolarTech Innovations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/8"
+          >
+            Creative Design Studios
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/9"
+          >
+            MediTech Solutions
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/10"
+          >
+            Eco-Friendly Living
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/11"
+          >
+            InnovateTech Labs
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/12"
+          >
+            Urban Architecture Collective
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/13"
+          >
+            Future Fashion Creations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/14"
+          >
+            Wellness Innovations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/15"
+          >
+            TechSavvy Solutions
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/16"
+          >
+            Green Living Co.
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/17"
+          >
+            Digital Marketing Masters
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/18"
+          >
+            Future Finance Innovations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/19"
+          >
+            Space Exploration Technologies
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/20"
+          >
+            Healthy Lifestyle Brands
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/21"
+          >
+            Smart Home Innovations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/22"
+          >
+            Infinite Possibilities Robotics
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/23"
+          >
+            Innovative Learning Solutions
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/24"
+          >
+            GreenTech Innovations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/25"
+          >
+            Digital Art Creations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/26"
+          >
+            Future Health Technologies
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/27"
+          >
+            Eco-Friendly Architecture
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/28"
+          >
+            Innovative Travel Experiences
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/29"
+          >
+            Renewable Energy Innovators
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/30"
+          >
+            TechDriven Solutions
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/31"
+          >
+            Sustainable Fashion Hub
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/32"
+          >
+            Future of Mobility Tech
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/33"
+          >
+            Green Building Innovations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/34"
+          >
+            Artificial Intelligence Ventures
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/35"
+          >
+            HealthTech Innovations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/36"
+          >
+            Smart Living Solutions
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/37"
+          >
+            Digital Entertainment Creations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/38"
+          >
+            Future Agriculture Technologies
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/39"
+          >
+            Clean Energy Innovations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/40"
+          >
+            Tech for Social Good
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`ComList matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="scroll"
+    >
+      <ul>
+        <li>
+          <a
+            href="/company/1"
+          >
+            Apple
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/2"
+          >
+            Green Energy Solutions
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/3"
+          >
+            Fashion Trends Ltd.
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/4"
+          >
+            HealthCare Innovators
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/5"
+          >
+            Foodie Delights Corp.
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/6"
+          >
+            Global Robotics
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/7"
+          >
+            SolarTech Innovations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/8"
+          >
+            Creative Design Studios
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/9"
+          >
+            MediTech Solutions
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/10"
+          >
+            Eco-Friendly Living
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/11"
+          >
+            InnovateTech Labs
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/12"
+          >
+            Urban Architecture Collective
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/13"
+          >
+            Future Fashion Creations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/14"
+          >
+            Wellness Innovations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/15"
+          >
+            TechSavvy Solutions
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/16"
+          >
+            Green Living Co.
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/17"
+          >
+            Digital Marketing Masters
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/18"
+          >
+            Future Finance Innovations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/19"
+          >
+            Space Exploration Technologies
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/20"
+          >
+            Healthy Lifestyle Brands
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/21"
+          >
+            Smart Home Innovations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/22"
+          >
+            Infinite Possibilities Robotics
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/23"
+          >
+            Innovative Learning Solutions
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/24"
+          >
+            GreenTech Innovations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/25"
+          >
+            Digital Art Creations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/26"
+          >
+            Future Health Technologies
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/27"
+          >
+            Eco-Friendly Architecture
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/28"
+          >
+            Innovative Travel Experiences
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/29"
+          >
+            Renewable Energy Innovators
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/30"
+          >
+            TechDriven Solutions
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/31"
+          >
+            Sustainable Fashion Hub
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/32"
+          >
+            Future of Mobility Tech
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/33"
+          >
+            Green Building Innovations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/34"
+          >
+            Artificial Intelligence Ventures
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/35"
+          >
+            HealthTech Innovations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/36"
+          >
+            Smart Living Solutions
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/37"
+          >
+            Digital Entertainment Creations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/38"
+          >
+            Future Agriculture Technologies
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/39"
+          >
+            Clean Energy Innovations
+          </a>
+        </li>
+        <li>
+          <a
+            href="/company/40"
+          >
+            Tech for Social Good
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</DocumentFragment>
+`;

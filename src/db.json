@@ -2,9 +2,9 @@
   "companies": [
     {
       "id": "1",
-      "title": "TechCo Inc.",
-      "email": "info@techco.com",
-      "description": "Leading technology company specializing in software development."
+      "title": "Apple",
+      "email": "apple@example.com",
+      "description": "Description for Apple"
     },
     {
       "id": "2",
@@ -29,6 +29,216 @@
       "title": "Foodie Delights Corp.",
       "email": "hello@foodiedelights.com",
       "description": "Bringing delicious and innovative food experiences to customers."
+    },
+    {
+      "id": "6",
+      "title": "Global Robotics",
+      "email": "info@globalrobotics.com",
+      "description": "Leaders in the field of robotics and automation."
+    },
+    {
+      "id": "7",
+      "title": "SolarTech Innovations",
+      "email": "contact@solartech.com",
+      "description": "Innovative solutions for harnessing solar energy."
+    },
+    {
+      "id": "8",
+      "title": "Creative Design Studios",
+      "email": "info@creativedesign.com",
+      "description": "Offering creative and artistic design services."
+    },
+    {
+      "id": "9",
+      "title": "MediTech Solutions",
+      "email": "support@meditech.com",
+      "description": "Advancing healthcare through cutting-edge technology."
+    },
+    {
+      "id": "10",
+      "title": "Eco-Friendly Living",
+      "email": "hello@ecoliving.com",
+      "description": "Promoting sustainable and eco-friendly lifestyle choices."
+    },
+    {
+      "id": "11",
+      "title": "InnovateTech Labs",
+      "email": "info@innovatetech.com",
+      "description": "Research and development in groundbreaking technologies."
+    },
+    {
+      "id": "12",
+      "title": "Urban Architecture Collective",
+      "email": "contact@urbanarch.com",
+      "description": "Creating modern and sustainable urban spaces."
+    },
+    {
+      "id": "13",
+      "title": "Future Fashion Creations",
+      "email": "support@futurefashion.com",
+      "description": "Designing the future of fashion with forward-thinking creations."
+    },
+    {
+      "id": "14",
+      "title": "Wellness Innovations",
+      "email": "info@wellnessinnovations.com",
+      "description": "Bringing innovative solutions to promote health and wellness."
+    },
+    {
+      "id": "15",
+      "title": "TechSavvy Solutions",
+      "email": "hello@techsavvy.com",
+      "description": "Solving complex challenges with tech-savvy solutions."
+    },
+    {
+      "id": "16",
+      "title": "Green Living Co.",
+      "email": "info@greenliving.com",
+      "description": "Encouraging sustainable and green living practices."
+    },
+    {
+      "id": "17",
+      "title": "Digital Marketing Masters",
+      "email": "contact@digitalmasters.com",
+      "description": "Masters in the art of digital marketing and promotion."
+    },
+    {
+      "id": "18",
+      "title": "Future Finance Innovations",
+      "email": "support@futurefinance.com",
+      "description": "Innovating the future of financial services and solutions."
+    },
+    {
+      "id": "19",
+      "title": "Space Exploration Technologies",
+      "email": "info@spaceexplore.com",
+      "description": "Exploring the vast frontier of space with cutting-edge technologies."
+    },
+    {
+      "id": "20",
+      "title": "Healthy Lifestyle Brands",
+      "email": "hello@healthylifestyle.com",
+      "description": "Building brands that promote a healthy and balanced lifestyle."
+    },
+    {
+      "id": "21",
+      "title": "Smart Home Innovations",
+      "email": "info@smarthome.com",
+      "description": "Bringing intelligence and innovation to modern home solutions."
+    },
+    {
+      "id": "22",
+      "title": "Infinite Possibilities Robotics",
+      "email": "contact@infiniterobotics.com",
+      "description": "Unleashing infinite possibilities through robotics and automation."
+    },
+    {
+      "id": "23",
+      "title": "Innovative Learning Solutions",
+      "email": "support@innovativelearning.com",
+      "description": "Revolutionizing education through innovative learning solutions."
+    },
+    {
+      "id": "24",
+      "title": "GreenTech Innovations",
+      "email": "info@greentechinnovations.com",
+      "description": "Driving environmental sustainability through green technologies."
+    },
+    {
+      "id": "25",
+      "title": "Digital Art Creations",
+      "email": "hello@digitalart.com",
+      "description": "Creating awe-inspiring digital art and visual experiences."
+    },
+    {
+      "id": "26",
+      "title": "Future Health Technologies",
+      "email": "info@futurehealthtech.com",
+      "description": "Pioneering the future of health with advanced technologies."
+    },
+    {
+      "id": "27",
+      "title": "Eco-Friendly Architecture",
+      "email": "contact@ecofriendlyarch.com",
+      "description": "Designing architectural wonders with an eco-friendly approach."
+    },
+    {
+      "id": "28",
+      "title": "Innovative Travel Experiences",
+      "email": "support@innovativetravel.com",
+      "description": "Crafting unique and innovative travel experiences for explorers."
+    },
+    {
+      "id": "29",
+      "title": "Renewable Energy Innovators",
+      "email": "info@renewableenergy.com",
+      "description": "Leading the way in innovative solutions for renewable energy."
+    },
+    {
+      "id": "30",
+      "title": "TechDriven Solutions",
+      "email": "hello@techdriven.com",
+      "description": "Driving solutions through the power of technology."
+    },
+    {
+      "id": "31",
+      "title": "Sustainable Fashion Hub",
+      "email": "info@sustainablefashion.com",
+      "description": "Connecting the world through sustainable and ethical fashion."
+    },
+    {
+      "id": "32",
+      "title": "Future of Mobility Tech",
+      "email": "contact@futuremobilitytech.com",
+      "description": "Shaping the future of mobility with cutting-edge technologies."
+    },
+    {
+      "id": "33",
+      "title": "Green Building Innovations",
+      "email": "support@greenbuilding.com",
+      "description": "Innovating the construction industry with green building solutions."
+    },
+    {
+      "id": "34",
+      "title": "Artificial Intelligence Ventures",
+      "email": "info@aiventures.com",
+      "description": "Venturing into the limitless possibilities of artificial intelligence."
+    },
+    {
+      "id": "35",
+      "title": "HealthTech Innovations",
+      "email": "hello@healthtechinnovations.com",
+      "description": "Revolutionizing healthcare with technological innovations."
+    },
+    {
+      "id": "36",
+      "title": "Smart Living Solutions",
+      "email": "info@smartlivingsolutions.com",
+      "description": "Bringing intelligence and efficiency to modern living spaces."
+    },
+    {
+      "id": "37",
+      "title": "Digital Entertainment Creations",
+      "email": "contact@digitalentertainment.com",
+      "description": "Creating immersive and innovative digital entertainment experiences."
+    },
+    {
+      "id": "38",
+      "title": "Future Agriculture Technologies",
+      "email": "support@futureagritech.com",
+      "description": "Transforming agriculture with advanced and sustainable technologies."
+    },
+    {
+      "id": "39",
+      "title": "Clean Energy Innovations",
+      "email": "info@cleanenergyinnovations.com",
+      "description": "Leading the way in clean and sustainable energy solutions."
+    },
+    {
+      "id": "40",
+      "title": "Tech for Social Good",
+      "email": "hello@techforsocialgood.com",
+      "description": "Harnessing technology for positive social impact and change."
     }
   ]
 }
