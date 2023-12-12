@@ -1,244 +1,244 @@
 {
   "companies": [
     {
-      "id": "1",
+      "id": "apple",
       "title": "Apple",
       "email": "apple@example.com",
       "description": "Description for Apple"
     },
     {
-      "id": "2",
-      "title": "Green Energy Solutions",
-      "email": "contact@greenenergy.com",
-      "description": "Provider of sustainable and renewable energy solutions."
+      "id": "microsoft",
+      "title": "Microsoft",
+      "email": "microsoft@example.com",
+      "description": "Description for Microsoft"
     },
     {
-      "id": "3",
-      "title": "Fashion Trends Ltd.",
-      "email": "support@fashiontrends.com",
-      "description": "Trendsetting fashion company with a focus on innovative designs."
+      "id": "google",
+      "title": "Google",
+      "email": "google@example.com",
+      "description": "Description for Google"
     },
     {
-      "id": "4",
-      "title": "HealthCare Innovators",
-      "email": "info@healthcareinnovators.com",
-      "description": "Pioneering healthcare solutions for a healthier world."
+      "id": "amazon",
+      "title": "Amazon",
+      "email": "amazon@example.com",
+      "description": "Description for Amazon"
     },
     {
-      "id": "5",
-      "title": "Foodie Delights Corp.",
-      "email": "hello@foodiedelights.com",
-      "description": "Bringing delicious and innovative food experiences to customers."
+      "id": "facebook",
+      "title": "Facebook",
+      "email": "facebook@example.com",
+      "description": "Description for Facebook"
     },
     {
-      "id": "6",
-      "title": "Global Robotics",
-      "email": "info@globalrobotics.com",
-      "description": "Leaders in the field of robotics and automation."
+      "id": "twitter",
+      "title": "Twitter",
+      "email": "twitter@example.com",
+      "description": "Description for Twitter"
     },
     {
-      "id": "7",
-      "title": "SolarTech Innovations",
-      "email": "contact@solartech.com",
-      "description": "Innovative solutions for harnessing solar energy."
+      "id": "instagram",
+      "title": "Instagram",
+      "email": "instagram@example.com",
+      "description": "Description for Instagram"
     },
     {
-      "id": "8",
-      "title": "Creative Design Studios",
-      "email": "info@creativedesign.com",
-      "description": "Offering creative and artistic design services."
+      "id": "tesla",
+      "title": "Tesla",
+      "email": "tesla@example.com",
+      "description": "Description for Tesla"
     },
     {
-      "id": "9",
-      "title": "MediTech Solutions",
-      "email": "support@meditech.com",
-      "description": "Advancing healthcare through cutting-edge technology."
+      "id": "netflix",
+      "title": "Netflix",
+      "email": "netflix@example.com",
+      "description": "Description for Netflix"
     },
     {
-      "id": "10",
-      "title": "Eco-Friendly Living",
-      "email": "hello@ecoliving.com",
-      "description": "Promoting sustainable and eco-friendly lifestyle choices."
+      "id": "spotify",
+      "title": "Spotify",
+      "email": "spotify@example.com",
+      "description": "Description for Spotify"
     },
     {
-      "id": "11",
-      "title": "InnovateTech Labs",
-      "email": "info@innovatetech.com",
-      "description": "Research and development in groundbreaking technologies."
+      "id": "snapchat",
+      "title": "Snapchat",
+      "email": "snapchat@example.com",
+      "description": "Description for Snapchat"
     },
     {
-      "id": "12",
-      "title": "Urban Architecture Collective",
-      "email": "contact@urbanarch.com",
-      "description": "Creating modern and sustainable urban spaces."
+      "id": "linkedin",
+      "title": "LinkedIn",
+      "email": "linkedin@example.com",
+      "description": "Description for LinkedIn"
     },
     {
-      "id": "13",
-      "title": "Future Fashion Creations",
-      "email": "support@futurefashion.com",
-      "description": "Designing the future of fashion with forward-thinking creations."
+      "id": "uber",
+      "title": "Uber",
+      "email": "uber@example.com",
+      "description": "Description for Uber"
     },
     {
-      "id": "14",
-      "title": "Wellness Innovations",
-      "email": "info@wellnessinnovations.com",
-      "description": "Bringing innovative solutions to promote health and wellness."
+      "id": "airbnb",
+      "title": "Airbnb",
+      "email": "airbnb@example.com",
+      "description": "Description for Airbnb"
     },
     {
-      "id": "15",
-      "title": "TechSavvy Solutions",
-      "email": "hello@techsavvy.com",
-      "description": "Solving complex challenges with tech-savvy solutions."
+      "id": "pinterest",
+      "title": "Pinterest",
+      "email": "pinterest@example.com",
+      "description": "Description for Pinterest"
     },
     {
-      "id": "16",
-      "title": "Green Living Co.",
-      "email": "info@greenliving.com",
-      "description": "Encouraging sustainable and green living practices."
+      "id": "softserve",
+      "title": "SoftServe",
+      "email": "softserve@example.com",
+      "description": "Description for SoftServe"
     },
     {
-      "id": "17",
-      "title": "Digital Marketing Masters",
-      "email": "contact@digitalmasters.com",
-      "description": "Masters in the art of digital marketing and promotion."
+      "id": "zoom",
+      "title": "Zoom",
+      "email": "zoom@example.com",
+      "description": "Description for Zoom"
     },
     {
-      "id": "18",
-      "title": "Future Finance Innovations",
-      "email": "support@futurefinance.com",
-      "description": "Innovating the future of financial services and solutions."
+      "id": "reddit",
+      "title": "Reddit",
+      "email": "reddit@example.com",
+      "description": "Description for Reddit"
     },
     {
-      "id": "19",
-      "title": "Space Exploration Technologies",
-      "email": "info@spaceexplore.com",
-      "description": "Exploring the vast frontier of space with cutting-edge technologies."
+      "id": "whatsapp",
+      "title": "WhatsApp",
+      "email": "whatsapp@example.com",
+      "description": "Description for WhatsApp"
     },
     {
-      "id": "20",
-      "title": "Healthy Lifestyle Brands",
-      "email": "hello@healthylifestyle.com",
-      "description": "Building brands that promote a healthy and balanced lifestyle."
+      "id": "samsung",
+      "title": "Samsung",
+      "email": "samsung@example.com",
+      "description": "Description for Samsung"
     },
     {
-      "id": "21",
-      "title": "Smart Home Innovations",
-      "email": "info@smarthome.com",
-      "description": "Bringing intelligence and innovation to modern home solutions."
+      "id": "twitch",
+      "title": "Twitch",
+      "email": "twitch@example.com",
+      "description": "Description for Twitch"
     },
     {
-      "id": "22",
-      "title": "Infinite Possibilities Robotics",
-      "email": "contact@infiniterobotics.com",
-      "description": "Unleashing infinite possibilities through robotics and automation."
+      "id": "discord",
+      "title": "Discord",
+      "email": "discord@example.com",
+      "description": "Description for Discord"
     },
     {
-      "id": "23",
-      "title": "Innovative Learning Solutions",
-      "email": "support@innovativelearning.com",
-      "description": "Revolutionizing education through innovative learning solutions."
+      "id": "github",
+      "title": "GitHub",
+      "email": "github@example.com",
+      "description": "Description for GitHub"
     },
     {
-      "id": "24",
-      "title": "GreenTech Innovations",
-      "email": "info@greentechinnovations.com",
-      "description": "Driving environmental sustainability through green technologies."
+      "id": "etsy",
+      "title": "Etsy",
+      "email": "etsy@example.com",
+      "description": "Description for Etsy"
     },
     {
-      "id": "25",
-      "title": "Digital Art Creations",
-      "email": "hello@digitalart.com",
-      "description": "Creating awe-inspiring digital art and visual experiences."
+      "id": "adobe",
+      "title": "Adobe",
+      "email": "adobe@example.com",
+      "description": "Description for Adobe"
     },
     {
-      "id": "26",
-      "title": "Future Health Technologies",
-      "email": "info@futurehealthtech.com",
-      "description": "Pioneering the future of health with advanced technologies."
+      "id": "nike",
+      "title": "Nike",
+      "email": "nike@example.com",
+      "description": "Description for Nike"
     },
     {
-      "id": "27",
-      "title": "Eco-Friendly Architecture",
-      "email": "contact@ecofriendlyarch.com",
-      "description": "Designing architectural wonders with an eco-friendly approach."
+      "id": "cocacola",
+      "title": "CocaCola",
+      "email": "cocacola@example.com",
+      "description": "Description for CocaCola"
     },
     {
-      "id": "28",
-      "title": "Innovative Travel Experiences",
-      "email": "support@innovativetravel.com",
-      "description": "Crafting unique and innovative travel experiences for explorers."
+      "id": "pepsi",
+      "title": "Pepsi",
+      "email": "pepsi@example.com",
+      "description": "Description for Pepsi"
     },
     {
-      "id": "29",
-      "title": "Renewable Energy Innovators",
-      "email": "info@renewableenergy.com",
-      "description": "Leading the way in innovative solutions for renewable energy."
+      "id": "starbucks",
+      "title": "Starbucks",
+      "email": "starbucks@example.com",
+      "description": "Description for Starbucks"
     },
     {
-      "id": "30",
-      "title": "TechDriven Solutions",
-      "email": "hello@techdriven.com",
-      "description": "Driving solutions through the power of technology."
+      "id": "adidas",
+      "title": "Adidas",
+      "email": "adidas@example.com",
+      "description": "Description for Adidas"
     },
     {
-      "id": "31",
-      "title": "Sustainable Fashion Hub",
-      "email": "info@sustainablefashion.com",
-      "description": "Connecting the world through sustainable and ethical fashion."
+      "id": "sony",
+      "title": "Sony",
+      "email": "sony@example.com",
+      "description": "Description for Sony"
     },
     {
-      "id": "32",
-      "title": "Future of Mobility Tech",
-      "email": "contact@futuremobilitytech.com",
-      "description": "Shaping the future of mobility with cutting-edge technologies."
+      "id": "nintendo",
+      "title": "Nintendo",
+      "email": "nintendo@example.com",
+      "description": "Description for Nintendo"
     },
     {
-      "id": "33",
-      "title": "Green Building Innovations",
-      "email": "support@greenbuilding.com",
-      "description": "Innovating the construction industry with green building solutions."
+      "id": "mastercard",
+      "title": "MasterCard",
+      "email": "mastercard@example.com",
+      "description": "Description for MasterCard"
     },
     {
-      "id": "34",
-      "title": "Artificial Intelligence Ventures",
-      "email": "info@aiventures.com",
-      "description": "Venturing into the limitless possibilities of artificial intelligence."
+      "id": "visa",
+      "title": "Visa",
+      "email": "visa@example.com",
+      "description": "Description for Visa"
     },
     {
-      "id": "35",
-      "title": "HealthTech Innovations",
-      "email": "hello@healthtechinnovations.com",
-      "description": "Revolutionizing healthcare with technological innovations."
+      "id": "paypal",
+      "title": "PayPal",
+      "email": "paypal@example.com",
+      "description": "Description for PayPal"
     },
     {
-      "id": "36",
-      "title": "Smart Living Solutions",
-      "email": "info@smartlivingsolutions.com",
-      "description": "Bringing intelligence and efficiency to modern living spaces."
+      "id": "monobank",
+      "title": "Monobank",
+      "email": "monobank@example.com",
+      "description": "Description for Monobank"
     },
     {
-      "id": "37",
-      "title": "Digital Entertainment Creations",
-      "email": "contact@digitalentertainment.com",
-      "description": "Creating immersive and innovative digital entertainment experiences."
+      "id": "ibm",
+      "title": "IBM",
+      "email": "ibm@example.com",
+      "description": "Description for IBM"
     },
     {
-      "id": "38",
-      "title": "Future Agriculture Technologies",
-      "email": "support@futureagritech.com",
-      "description": "Transforming agriculture with advanced and sustainable technologies."
+      "id": "intel",
+      "title": "Intel",
+      "email": "intel@example.com",
+      "description": "Description for Intel"
     },
     {
-      "id": "39",
-      "title": "Clean Energy Innovations",
-      "email": "info@cleanenergyinnovations.com",
-      "description": "Leading the way in clean and sustainable energy solutions."
+      "id": "nasa",
+      "title": "NASA",
+      "email": "nasa@example.com",
+      "description": "Description for NASA"
     },
     {
-      "id": "40",
-      "title": "Tech for Social Good",
-      "email": "hello@techforsocialgood.com",
-      "description": "Harnessing technology for positive social impact and change."
+      "id": "oracle",
+      "title": "Oracle",
+      "email": "oracle@example.com",
+      "description": "Description for Oracle"
     }
   ]
 }
